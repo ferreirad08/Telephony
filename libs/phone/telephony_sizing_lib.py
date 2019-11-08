@@ -32,3 +32,4 @@ class TelephonySizingLib:
         GoS = num/den
         
         return GoS
+    
