@@ -15,5 +15,4 @@ if __name__ == '__main__':
     C = 50
     
     GoS = tplib.erlang_b(A, C)
-    print('GoS =', GoS*100, '%')
-    
+    print('GoS =', GoS*100, '%')    
